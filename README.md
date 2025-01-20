@@ -1,2 +1,6 @@
-# del-negociante
-They say I'm conceited and arrogant, the can't stand to see me straight ahead. I'm honest and I try to behave well, I'm 100% commited with my friends. Don't look for it because you might find: I also know how to behave badly.
+# Proyecto AFORE
+
+Este proyecto contiene:
+1. **Código**: transformacion.ipynb - Código usado para procesar los datos.
+2. **Datos**: data/ - Archivos CSV utilizados como base para generar las tablas.
+3. **Reporte Power BI**: reports/ - Archivo principal para abrir en Power BI.

@@ -1,0 +1,16 @@
+Competidor,Producto,Experimento,Pronóstico,Real,Recomendación
+Competidor1,Product1,Prophet Base,2074367.9371753393,1798562.0,Aumentar producción
+Competidor1,Product2,Prophet Base,12322838.546192186,12266624.5,Aumentar producción
+Competidor10,Product1,Prophet Base,45687727.7032179,43983489.5,Aumentar producción
+Competidor2,Product1,Prophet Base,39835589.301251896,38826079.5,Aumentar producción
+Competidor3,Product1,Prophet Base,2760061.9862390393,2682195.0,Aumentar producción
+Competidor3,Product2,Prophet Base,6220766.328918184,6212082.0,Aumentar producción
+Competidor4,Product1,Prophet Base,33808709.50782718,33457145.0,Aumentar producción
+Competidor5,Product1,Prophet Base,3845953.5089395135,3838649.0,Aumentar producción
+Competidor5,Product2,Prophet Base,13203586.418452486,13166704.1,Aumentar producción
+Competidor6,Product1,Prophet Base,52030091.88551938,50829150.2,Aumentar producción
+Competidor7,Product1,Prophet Base,1164015.0785060965,1004833.0,Aumentar producción
+Competidor7,Product2,Prophet Base,2449853.489777752,2525834.0,Mantener niveles
+Competidor8,Product1,Prophet Base,14273664.00529655,14273898.0,Mantener niveles
+Competidor9,Product1,Prophet Base,3168795.6640646206,2319559.0,Aumentar producción
+Competidor9,Product2,Prophet Base,15325730.360592214,15079720.0,Aumentar producción

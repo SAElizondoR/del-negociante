@@ -172,3 +172,5 @@ cython_debug/
 
 data/competidores
 *.png
+cat_*.csv
+sh_*.*
